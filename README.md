@@ -26,7 +26,7 @@
 
 - 따라서 해당 모델을 사용하되 간소화시키고자 했음
 
-<p align = "center"><img src = "Images/프로세스.png" width = "1000" height = "1200"></p>
+<p align = "center"><img src = "Images/프로세스_all.png" width = "1000" height = "1200"></p>
 
 - 위와 같이 모델을 구성하여 학습을 진행
 
