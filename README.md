@@ -36,7 +36,7 @@
 
 <h2>💡 4. 분석 결과</h2>
 
-<p align = "center"><img src = "Images/학습.JPG" width = "1000" height = "300"></p>
+<p align = "center"><img src = "Images/학습.JPG" width = "600" height = "300"></p>
 
 - 안정적으로 학습하지는 못했음
 
