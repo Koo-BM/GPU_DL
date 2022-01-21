@@ -26,7 +26,7 @@
 
 - 따라서 해당 모델을 사용하되 간소화시키고자 했음
 
-<p align = "center"><img src = "Images/프로세스.JPG" width = "1000" height = "300"></p>
+<p align = "center"><img src = "Images/프로세스.png" width = "1000" height = "300"></p>
 
 - 위와 같이 모델을 구성하여 학습을 진행
 
@@ -40,7 +40,7 @@
 
 - 안정적으로 학습하지는 못했음
 
-<p align = "center"><img src = "Images/학습.JPG" width = "1000" height = "300"></p>
+<p align = "center"><img src = "Images/결과.jpg" width = "1000" height = "300"></p>
 
 - Public: 0.86285 
 
