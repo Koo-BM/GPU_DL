@@ -4,7 +4,7 @@
 
 - 프로젝트: 한성원 교수님 AIDA Lab에서 진행한 특강 프로젝트 [IME Project for Application of GPU Server](https://www.kaggle.com/c/ime/overview)
 
-- 수행기간: `2021. 05. 28`
+- 수행기간: `2021.05.28`
 
 - 수행인원: 구병모, 최두혁
 
